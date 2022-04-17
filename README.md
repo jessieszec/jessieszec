@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @jessieszec
-- 👀 I’m interested in Data Analysis, Machine Learning, AI Solutions
+- ⌨💻 I’m interested in Data Analysis, Machine Learning, AI Solutions
+- 📨 You may reach me at jessiepoon114@gmail.com
 
 <!---
 jessieszec/jessieszec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
