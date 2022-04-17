@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessieszec
-- ⌨💻 I’m interested in Data Analysis, Machine Learning, AI Solutions
+- ⌨💻 I’m interested in Data Analysis, Machine Learning, Web Scraping
 - 📨 You may reach me at jessiepoon114@gmail.com
 
 <!---
